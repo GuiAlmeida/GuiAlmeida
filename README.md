@@ -1,9 +1,9 @@
 ## Olá! eu sou a Guilherme! 
 
-- 💻   Desenvolvedor Frontend
-- ⚙   Skill Principal VueJS
-- ✏   Estudando NodeJS/ReactJS
-- 🏹   Meu objetivo é ser desenvolvedor FullStack.
+- 💻&nbsp;Desenvolvedor Frontend
+- ⚙&nbsp;Skill Principal VueJS
+- ✏&nbsp;Estudando NodeJS/ReactJS
+- 🏹&nbsp;Meu objetivo é ser desenvolvedor FullStack.
 
 <br/>
  <div>
