@@ -1,5 +1,10 @@
-## Hey guys, i'm Guilherme Almeida and this is my infos
+## Olá! eu sou a Guilherme! 
 
+- 💻 Desenvolvedor Frontend
+- ⚙ Skill Principal VueJS
+- ✏ Estudando NodeJS/ReactJS
+- 🏹 Meu objetivo é ser desenvolvedor FullStack.
+- 
 <br/>
  <div>
   <a href="https://github.com/GuiAlmeida">   
