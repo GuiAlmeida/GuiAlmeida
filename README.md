@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiAlmeida&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
  
- ## I’m currently learning and working with 👨🏽‍💻 
+ ## Atualmente estou aprendendo e trabalhando com 👨🏽‍💻 
 
  - ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,7 +23,7 @@
   
   ##
  
-  ## Contact Me 📞
+  ## Contate-me 📞
  
 <div> 
  
