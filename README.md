@@ -3,7 +3,7 @@
 - <p>💻 &ensp;Desenvolvedor Frontend</p>
 - <p>⚙ &ensp;Skill Principal VueJS</p>
 - <p>✏&ensp;Estudando NodeJS/ReactJS</p>
-- <p>🏹&ensp;Meu objetivo é ser desenvolvedor FullStack.</p>
+- <p>🏹&ensp;Meu objetivo é ser desenvolvedor frontend especialista.</p>
 
 <br/>
  <div>
