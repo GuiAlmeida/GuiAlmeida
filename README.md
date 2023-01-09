@@ -1,4 +1,4 @@
-## Olá! eu sou a Guilherme! 
+## Olá, sou o Guilherme! 
 
 - <p>💻 &ensp;Desenvolvedor Frontend</p>
 - <p>⚙ &ensp;Skill Principal VueJS</p>
